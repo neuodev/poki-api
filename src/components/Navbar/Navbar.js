@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="flex items-center justify-center overflow-hidden">
+    <nav className="flex items-center justify-center overflow-hidden bg-yellow-200">
       <div className="py-4">
         <img
           src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png"

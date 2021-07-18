@@ -1,10 +1,12 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
+import Pokemons from "./components/Pokemons";
 
 function App() {
   return (
-    <div className="text-green-300 bg-yellow-200">
+    <div className="">
       <Navbar />
+      <Pokemons />
     </div>
   );
 }
